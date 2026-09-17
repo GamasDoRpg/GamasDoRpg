@@ -104,7 +104,7 @@ A science-fiction literary project with its own website:
 
 [UGdA Website](https://github.com/GamasDoRpg/UGdA-Site)
 
-I also maintain my broader personal/creative site here:
+I also used maintain my broader personal/creative site here, but its no longer on air:
 
 [Ogramac](https://github.com/GamasDoRpg/Site-Ogramac)
 
